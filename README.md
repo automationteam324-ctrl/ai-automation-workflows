@@ -20,4 +20,4 @@ This workflow helps recover lost sales by automatically sending follow-ups to us
 4. Log data in Google Sheets
 
 ## 🔹 Preview:
-![Workflow](./abandoned-cart.png)
+[![Workflow](./abandoned-cart.png)](./abandoned-cart.png)
